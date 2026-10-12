@@ -103,7 +103,7 @@ export default function Landing() {
         <div className="mb-8 animate-fade-in">
           <span className="chip-amber text-xs" role="text">
             <span className="w-1.5 h-1.5 bg-amber-400 rounded-full animate-pulse-slow inline-block" aria-hidden="true" />
-            COA Portfolio · First Year · Chandigarh University
+            COA Portfolio · Second Year · Chandigarh University
           </span>
         </div>
 
